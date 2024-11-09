@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be876839.css",
+    "main.js": "/static/js/main.505c2d34.js",
+    "static/media/CaslonBold.ttf": "/static/media/CaslonBold.55e210e1518e1c66fea3.ttf",
+    "static/media/poster.png": "/static/media/poster.b0481eaf4365a592fe1b.png",
+    "static/media/UBuraimi.png": "/static/media/UBuraimi.34e3ff3c074931aee3ce.png",
+    "static/media/person3.jpg": "/static/media/person3.a66b2b56fe0ab03473b1.jpg",
+    "static/media/lincoln university.png": "/static/media/lincoln university.437f0a7a7bd0a2bf610f.png",
+    "static/media/logoofchristies.png": "/static/media/logoofchristies.4e9565c49b3eadaa67a4.png",
+    "static/media/person2.jpg": "/static/media/person2.b88d6d97e009991b5540.jpg",
+    "static/media/Texila.png": "/static/media/Texila.03a828e28ef59c9c868f.png",
+    "static/media/bg.svg": "/static/media/bg.136549068bc0cd0ca4dda188272fc710.svg",
+    "static/media/person1.jpg": "/static/media/person1.ba807a50ca7b716adadb.jpg",
+    "static/media/UNigeria.png": "/static/media/UNigeria.4db201644840fa6a9b00.png",
+    "static/media/Unizwaz.png": "/static/media/Unizwaz.210d4755fe46f99bdfeb.png",
+    "index.html": "/index.html",
+    "static/media/callpapers.svg": "/static/media/callpapers.72fb7b3a1ecd523ee1066e368668869c.svg",
+    "main.be876839.css.map": "/static/css/main.be876839.css.map",
+    "main.505c2d34.js.map": "/static/js/main.505c2d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be876839.css",
+    "static/js/main.505c2d34.js"
+  ]
+}
